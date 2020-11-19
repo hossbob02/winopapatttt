@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fisrtApp"
+    }
+  },
+  "defaultProject": "fisrtApp",
+  "cli": {
+    "analytics": "3392f64a-eee2-4305-8356-951c25d6bd6c"
+  }
 }
